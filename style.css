@@ -4,7 +4,6 @@
 }
 .item2 { 
     grid-area: menu; 
-    width: 200px;
 }
 .item3 { 
     grid-area: main; 
